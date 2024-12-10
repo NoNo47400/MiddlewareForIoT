@@ -1,0 +1,2 @@
+[console_scripts]
+acmecse = acmecse.__main__:main

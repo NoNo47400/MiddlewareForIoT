@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: CoAPthon3-ACME-CSE
+Version: 1.1.3
+Summary: CoAPthon is a python library for the CoAP protocol. This fork of the library provides several updates to support the oneM2M CoAP binding of the ACME oneM2M CSE
+Home-page: https://github.com/ankraft/CoAPthon3-ACME-CSE
+Author: Giacomo Tanganelli
+Author-email: giacomo.tanganelli@for.unipi.it
+Maintainer: Andreas Kraft
+Maintainer-email: an.kraft@gmail.com
+License: MIT License
+Requires: sphinx
+Requires: cachetools
+License-File: LICENSE
+
